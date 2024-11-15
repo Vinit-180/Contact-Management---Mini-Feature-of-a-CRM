@@ -78,7 +78,7 @@ npm start
 ```
 4. **Frontend Setup**:
 ```bash
-cd frontend
+cd ui
 npm install
 ```
 
