@@ -4,6 +4,7 @@
 
 # dependencies
 
+*.*/frontend
 */.pnp
 .pnp.js
 
